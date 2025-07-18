@@ -1,0 +1,10 @@
+tk
+nltk
+spacy
+openai-whisper
+language-tool-python
+torch
+transformers
+librosa
+numpy
+pydub
